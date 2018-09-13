@@ -37,7 +37,8 @@ public class Main {
         for(int i=0; i<=pl; i++) {
             for(int j=0; j<al; j++) {
                 System.out.print("|"+matrix[i][j]+"|");
-            }System.out.println("\n");
+            }
+            System.out.println("\n");
         }
     }
     
